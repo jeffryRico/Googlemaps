@@ -74,6 +74,8 @@ class App extends Component {
     document.getElementById('btnBuscar').click();
   }
 
+  // manejo 
+
   manejoOnClick = (e) => {
     const request = {
       query: document.getElementById('destino').value,
