@@ -3,7 +3,7 @@ Google maps en React // Google maps in React
 Proyecto de React con API de google maps donde podremos buscar cualquier sitio en el mundo del cual vamos a obtener: 
 6 fotos del lugar 
 horario de apertura y cierre
-rating y comentarios del lugar
+valoracion y comentarios del lugar
 buscar lugares cercanos al sitio buscado
 planear ruta de un lugar a otro y escoger medio de transporte
 escoger como destino alguno de los sitios cercanos al buscado
