@@ -59,7 +59,7 @@ class App extends Component {
       });
     }
   }
-// showMap en url
+
   showMap(mapCenter) {
     var map = new window.google.maps.Map(
       document.getElementById('map'), { zoom: 15, center: mapCenter });
@@ -74,7 +74,7 @@ class App extends Component {
     document.getElementById('btnBuscar').click();
   }
 
-  // manejo 
+
 
   manejoOnClick = (e) => {
     const request = {
