@@ -11,7 +11,7 @@ un mini mapa con la ubicacion del lugar
 
 Project made in React with API google maps where can search for a place anywhere in the world you can get anyinformation like:
 
-6 images from the place
+6 images of the place
 opening and closing hours
 raiting and feedback from the place
 look for close places to the place serched
