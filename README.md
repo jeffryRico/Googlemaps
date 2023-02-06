@@ -17,4 +17,4 @@ raiting and feedback from the place
 look for close places to the place serched
 made routes from one place to another and choose transport method
 choose as destination someplace close to the place serched
-mini map with the location from the place
+mini map with the location of the place
